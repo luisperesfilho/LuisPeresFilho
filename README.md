@@ -1,16 +1,21 @@
-### Hi there 👋
+# Sobre mim 👦
+```
+Sou iniciante na área da programação e design, moro na cidade de Pato Branco - PR,
 
-<!--
-**luisperesfilho/LuisPeresFilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+nasci em 04/05/2005 tenho 17 anos.
+```
+## Meu começo 🚀
+```
+Comecei a me interessar por programção no curso Técnico em Informática do 
 
-Here are some ideas to get you started:
+colégio Estadual de Pato Branco, 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+que iniciei em janeiro de 2020.
+
+```
+## 📋 Experiência
+```
+Atualmente estou desempregado.
+
+Domino Html e css.
+```
